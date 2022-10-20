@@ -1,0 +1,9 @@
+{
+  "webdriver": {
+    "BrowserLanguage": "en"
+  },
+  "environment": {
+    "ApplicationEnv": "Test",
+    "ApplicationUrl": "https://www.saucedemo.com/"
+  }
+}
